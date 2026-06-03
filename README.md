@@ -26,6 +26,3 @@ Experience the sanctuary of CalmCafes online at [calmcafes.vercel.app](https://c
 ---
 
 # 🚀 Power of AI
-
-
-
