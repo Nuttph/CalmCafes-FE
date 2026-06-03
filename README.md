@@ -2,7 +2,7 @@
 
 A premium, modern web presence for CalmCafes, crafted for slow living, high-quality specialty coffee, and organic sourcing.
 
-![CalmCafes Mockup](file:///d:/Work/MyProject/CalmCafes/screen.png)
+![CalmCafes Mockup](./screen.png)
 
 ## Brand Philosophy
 CalmCafes is anchored in **Sophisticated Serenity**. We target a discerning audience that values organic practices, slow living, and a quiet atmosphere. Generous whitespace frames high-quality lifestyle photography, creating an immediate sense of decompressing sanctuary.
