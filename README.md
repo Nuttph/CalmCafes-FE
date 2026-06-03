@@ -20,15 +20,12 @@ CalmCafes is anchored in **Sophisticated Serenity**. We target a discerning audi
 - **Fonts:** Playfair Display (Headings) & Inter (Body & UI)
 - **Icons:** Google Material Symbols
 
-## Getting Started
-First, install the dependencies:
-```bash
-npm install
-```
+## Live Demo
+Experience the sanctuary of CalmCafes online at [calmcafes.vercel.app](https://calmcafes.vercel.app/).
 
-Then, run the development server:
-```bash
-npm run dev
-```
-Open [http://localhost:3000](http://localhost:3000) to view it.
+---
+
+# 🚀 Power of AI
+
+
 
